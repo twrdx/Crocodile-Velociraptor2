@@ -7,7 +7,8 @@
 #profiilikuva {
 	width: 200px;
 	position: absolute;
-	
+	top: 10px;
+	left: 5px;
 }
 
 body {
@@ -15,7 +16,7 @@ body {
 	text-align: center;
 	color: #000066;
 	background-color: #ccccff;
-	margin-left: 210px;
+	margin-left: 220px;
 	margin-top: 100px;
 }
 
@@ -28,7 +29,6 @@ nav {
 	background: #9999ff;
 	text-align:center;
 }
-
 
 a {
   background-image: linear-gradient(
